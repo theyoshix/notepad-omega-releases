@@ -1,19 +1,19 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.5",
   "notes": "## What changed\nSee the commit history for details.",
-  "pub_date": "2026-05-22T13:03:09.990Z",
+  "pub_date": "2026-06-12T18:26:50.450Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVRKMGdyRFBROVZ4Tjd0aER6cTFucnNSTUR0aDl4OXJ0WkZLWXJHcVU1OXUwZ0h6eDNEZ2hlRnFPZVI2aUFRQjhJU3NGNWY3QXdMV2dIdUtWUWc1c2wycU10MUpaaVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU0OTgzCWZpbGU6Tm90ZXBhZCBPbWVnYV8xLjEuMF94NjRfZW4tVVMubXNpCjAwOFFOY0hZMk05QVVYelVpb29sM1pEMVZkNWNINktiWHFmR3ZEbnhoTHB0Q0VFTzNyR2ZiMlFraHdvYjhPdTNTVnVaZE5YQytSM2Q1UmtFZkNZL0FBPT0K",
-      "url": "https://github.com/theyoshix/notepad-omega-releases/releases/download/v1.1.0/Notepad.Omega_1.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVRKMGdyRFBROVlsR24xM01XWG13QUlTQVdmZHF0a05aazZuNXV5azExRXNiNVJsOUNzdU1mc2U3TXhLZ1lCclByMWUwVjlueTN5WjViUDBZTTM4M1IwQnV4ay9BRXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjg4ODA1CWZpbGU6Tm90ZXBhZCBPbWVnYV8xLjEuNV94NjRfZW4tVVMubXNpClM2UEhFd3BnWG94WHV5R0lmRFpSYWRrajJTbkl3VXo3ampkcmQ3Tzh1ei9HYkQrUW9USStOaVhoMFBnS3JZMDVOMmZkaGZNN20xVy9XN3E0aTJxc0JBPT0K",
+      "url": "https://github.com/theyoshix/notepad-omega-releases/releases/download/v1.1.5/Notepad.Omega_1.1.5_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVRKMGdyRFBROVZ4Tjd0aER6cTFucnNSTUR0aDl4OXJ0WkZLWXJHcVU1OXUwZ0h6eDNEZ2hlRnFPZVI2aUFRQjhJU3NGNWY3QXdMV2dIdUtWUWc1c2wycU10MUpaaVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU0OTgzCWZpbGU6Tm90ZXBhZCBPbWVnYV8xLjEuMF94NjRfZW4tVVMubXNpCjAwOFFOY0hZMk05QVVYelVpb29sM1pEMVZkNWNINktiWHFmR3ZEbnhoTHB0Q0VFTzNyR2ZiMlFraHdvYjhPdTNTVnVaZE5YQytSM2Q1UmtFZkNZL0FBPT0K",
-      "url": "https://github.com/theyoshix/notepad-omega-releases/releases/download/v1.1.0/Notepad.Omega_1.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVRKMGdyRFBROVlsR24xM01XWG13QUlTQVdmZHF0a05aazZuNXV5azExRXNiNVJsOUNzdU1mc2U3TXhLZ1lCclByMWUwVjlueTN5WjViUDBZTTM4M1IwQnV4ay9BRXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjg4ODA1CWZpbGU6Tm90ZXBhZCBPbWVnYV8xLjEuNV94NjRfZW4tVVMubXNpClM2UEhFd3BnWG94WHV5R0lmRFpSYWRrajJTbkl3VXo3ampkcmQ3Tzh1ei9HYkQrUW9USStOaVhoMFBnS3JZMDVOMmZkaGZNN20xVy9XN3E0aTJxc0JBPT0K",
+      "url": "https://github.com/theyoshix/notepad-omega-releases/releases/download/v1.1.5/Notepad.Omega_1.1.5_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVRKMGdyRFBROVFpTGEwY1hVU3Fvci9sVnVQSG1IVjU2U2M1Skxva2dTVXVRL3RvNkJadWpzcGVmcG5qVDVMdkJEU0RycmdIR2o5ZVJLeE9JbjNPdmVTbEJDdWJNR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDU0OTgzCWZpbGU6Tm90ZXBhZCBPbWVnYV8xLjEuMF94NjQtc2V0dXAuZXhlCkUwQ3A1RHJEanovRWloRjg4S1NLZkxXUWFGV1h2S2NBMVErUFdTTkFhcEtIQzVsNlpSNnRsT2E1OXR2aVAxaG05dis0dGFKeTlKaFpzMUJEZ3NXUEFnPT0K",
-      "url": "https://github.com/theyoshix/notepad-omega-releases/releases/download/v1.1.0/Notepad.Omega_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQVRKMGdyRFBROVMyTkppOFV1UEZyR3kvVWJ0Q0hXU1JKYU1Wdk1oZmhrNTV2U09XWkxaandYQ1ovZGRKOWJtTjl3OTBzVkI5cTFSRWk4cUpOS2kza2o0OGxra1hwSnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjg4ODA1CWZpbGU6Tm90ZXBhZCBPbWVnYV8xLjEuNV94NjQtc2V0dXAuZXhlCkhQbmJ2Z0F5a2xIa1dTbXgzK3VDZHNoRTBYd0tMWWtES3pkMllyM01kWG9saDVnRm83ZU9jMy9KV2U3Ly9qYjBFZkl4MlBuQzl2L0JHSmd2TXJzaEFBPT0K",
+      "url": "https://github.com/theyoshix/notepad-omega-releases/releases/download/v1.1.5/Notepad.Omega_1.1.5_x64-setup.exe"
     }
   }
 }
